@@ -65,7 +65,7 @@ PC-A> ping [IP_DO_PC-B]
 
 ## 5.Análise dos Resultados para o Relatório do GitHub
 
-Adicione essas reflexões técnicas na documentação do seu repositório:
+Adicione essas reflexões técnicas na documentação do seu relatório:
 
 * **Tolerância a Falhas:** Qual é o impacto de uma quebra de cabo na extremidade (ex: cabo do PC-A) comparado a uma quebra no meio do tronco (ex: entre Switch 2 e 3)?
 
