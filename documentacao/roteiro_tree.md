@@ -65,7 +65,7 @@ Abra os terminais de prompt de comando dos computadores abaixo e inicie pings co
 
 ## 5. Análise dos Resultados para o Relatório do GitHub
 
-Enriqueça sua postagem respondendo a estes critérios no seu `README`:
+Enriqueça sua análise respondendo a estes critérios no seu relatório:
 
 * **Escalabilidade:** Por que a estrutura em árvore facilita a expansão da rede (ex: adicionar um novo prédio de escritórios inteiro) sem a necessidade de reestruturar o miolo central?
 * **Tolerância a Falhas:** Qual camada representa o maior risco de disponibilidade se falhar?

@@ -54,7 +54,7 @@ Para entender o isolamento de falhas do modelo híbrido, abra dois terminais:
 
 ## 5. Análise dos Resultados para o Relatório do GitHub
 
-Conclua o último roteiro do seu portfólio analisando a viabilidade de negócios desta arquitetura:
+Conclua o último roteiro do seu trabalho analisando a viabilidade de negócios desta arquitetura:
 
 * **Custo-Benefício:** Por que a topologia Híbrida é economicamente mais viável do que transformar a empresa inteira (incluindo todos os computadores de usuários) em uma Malha Completa (Full Mesh)?
 * **Escalabilidade:** Se a empresa crescer e criar o departamento de "Recursos Humanos", como a topologia híbrida permite adicionar esse novo bloco sem mexer na estrutura dos blocos existentes?
